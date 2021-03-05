@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blogs</title>
+    <link href="https://aayushhh.github.io/blogss/feed.xml" rel="self" />
+    <link href="https://aayushhh.github.io/blogss" />
+    <updated>2021-03-06T01:15:01+05:30</updated>
+    <author>
+        <name>Aayush</name>
+    </author>
+    <id>https://aayushhh.github.io/blogss</id>
+
+    <entry>
+        <title>Day 4 Unsupervised Learning</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-5-unsupervised-learning.html"/>
+        <id>https://aayushhh.github.io/blogss/day-5-unsupervised-learning.html</id>
+            <category term="clustering"/>
+            <category term="Unsupervised"/>
+            <category term="ML"/>
+            <category term="Hierarchical Clustering"/>
+            <category term="AI"/>
+
+        <updated>2021-03-06T01:15:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44-2.png" alt="Unsupervised Learning" />
+                    Unsupervised learning Input data is unlabeled &amp; the program learns to recognize the inherent patterns in the input data Eg: Data across few people's eating habits Model input =🍎🍊🍊 Model output = cluster of vegetarian/vegan When is unsupervised learning used? 🔸 On large datasets where annotating&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44-2.png" alt="Unsupervised Learning" />
+                <h2 class="align-center"><code><strong>Unsupervised learning</strong></code></h2>
+<h2> </h2>
+<p><span style="font-weight: 400;">Input data is unlabeled &amp; the program learns to recognize the inherent patterns in the input data</span></p>
+<p><span style="font-weight: 400;">Eg: Data across few people's eating habits</span></p>
+<p><span style="font-weight: 400;">Model input =🍎🍊🍊</span></p>
+<p><span style="font-weight: 400;">Model output = cluster of vegetarian/vegan</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">When is unsupervised learning used?</span></p>
+<p><span style="font-weight: 400;">🔸 On large datasets where annotating (labeling) data is costly</span></p>
+<p><span style="font-weight: 400;">🔸 When we don't know how many classes might exist in the data</span></p>
+<p><span style="font-weight: 400;">🔸 Cluster the data to apply classification on the individual clusters</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">has demystified unsupervised learning here 👉</span></p>
+<p><a href="https://hackernoon.com/unsupervised-learning-demystified-4060eecedeaf"><span style="font-weight: 400;">Unsupervised learning demystified | Hacker Noon</span></a></p>
+<p><a href="https://bit.ly/quaesita_unsupervised"><span style="font-weight: 400;">https://bit.ly/quaesita_unsupervised</span></a></p>
+<p><br><br></p>
+<p><span style="font-weight: 400;">Common types of unsupervised learning:</span></p>
+<p><span style="font-weight: 400;">🔹 Clustering - divide the data by similarity</span></p>
+<p><span style="font-weight: 400;">📌 Eg: Target marketing, Customer recommendation</span></p>
+<p><span style="font-weight: 400;">🔹 Dimensionality reduction - Find wider dependencies</span></p>
+<p><span style="font-weight: 400;">📌 Eg: Big data visualizations, structure discovery</span></p>
+<p><br><br></p>
+<p><span style="font-weight: 400;">Most used clustering algorithms:</span></p>
+<p><span style="font-weight: 400;">👉 Centroid-based Clustering - k-means</span></p>
+<p><span style="font-weight: 400;">👉 Density-based Clustering</span></p>
+<p><span style="font-weight: 400;">👉 Distribution-based Clustering - Gaussian distributions</span></p>
+<p><span style="font-weight: 400;">👉 Hierarchical Clustering </span></p>
+<p> </p>
+<p><span style="font-weight: 400;">👉 Centroid-based Clustering organizes the data into non-hierarchical clusters</span></p>
+<p><span style="font-weight: 400;">🔹 These algorithms are efficient but sensitive to initial conditions and outliers.</span></p>
+<p><span style="font-weight: 400;">🔹 k-means is the most widely-used centroid-based clustering algorithm which is efficient, effective, &amp; simple</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-09-44-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-09-44-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-09-44-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-09-44-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-09-44-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-09-44-2xl.png 1600w"  alt="Plots" width="479" height="378"></figure>
+<p> </p>
+<p><span style="font-weight: 400;">6/8</span></p>
+<p><span style="font-weight: 400;">👉 Density-based clustering connects areas of high example density into clusters.</span></p>
+<p><span style="font-weight: 400;">🔹 Allows for arbitrary-shaped distributions as long as dense areas can be connected</span></p>
+<p><span style="font-weight: 400;">🔹 These algorithms have difficulty with data of varying densities &amp; high dimensions</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-10-08.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-10-08-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-10-08-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-10-08-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-10-08-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-10-08-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-10-08-2xl.png 1600w"  alt="Dimesions" width="469" height="382"></figure>
+<p> </p>
+<p><span style="font-weight: 400;">👉 Distribution-based clustering assumes data is composed of distributions</span></p>
+<p><span style="font-weight: 400;">🔹 such as Gaussian distributions</span></p>
+<p><span style="font-weight: 400;">🔹 As distance from the distribution's center increases, the probability that a point belongs to the distribution decreases</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-11-41.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-11-41-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-11-41-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-11-41-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-11-41-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-11-41-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-11-41-2xl.png 1600w"  alt="" width="465" height="313"></figure>
+<p> </p>
+<p><span style="font-weight: 400;">👉 Hierarchical Clustering</span></p>
+<p><span style="font-weight: 400;">🔹 Creates a tree of clusters</span></p>
+<p><span style="font-weight: 400;">🔹 Well suited to hierarchical data, such as taxonomies</span></p>
+<p><span style="font-weight: 400;">🔹 Advantage: Any number of clusters can be chosen by cutting the tree at the right level</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-12-33.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-12-33-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-12-33-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-12-33-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-12-33-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-12-33-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/5/responsive/Screenshot-from-2021-03-06-01-12-33-2xl.png 1600w"  alt="" width="689" height="442"></figure>
+<p><span style="font-weight: 400;">Resource:</span></p>
+<p><a href="https://developers.google.com/machine-learning/crash-course"><span style="font-weight: 400;">Machine Learning Crash Course  |  Google Developers</span></a></p>
+<p><a href="https://bit.ly/gcp_ml"><span style="font-weight: 400;">https://bit.ly/gcp_ml</span></a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>💁Day 3 Supervised Learning</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-3-supervised-learning.html"/>
+        <id>https://aayushhh.github.io/blogss/day-3-supervised-learning.html</id>
+            <category term="Unsupervised"/>
+            <category term="Supervised Learning"/>
+            <category term="Semi-supervised"/>
+            <category term="Reinforcement"/>
+            <category term="Regression"/>
+            <category term="ML"/>
+            <category term="Classification"/>
+            <category term="Artificial Intelligence"/>
+            <category term="AI"/>
+            <category term="31daysofML"/>
+
+        <updated>2021-03-06T01:02:25+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/4/1_DjUEt5-t6lCjYG_MuZlLg.png" alt="Supervised Learning" />
+                    <p class="post__lead msg msg--highlight "><span style="font-weight: 400;">There are different types of learning models. These 4 are the most common that you usually come across. </span></p>
+<p> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Supervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unsupervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Semi-supervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reinforcement</span></li>
+</ul>
+<p><br><br></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Supervised learning</strong><span style="font-weight: 400;"> - Applications in which the training data is examples of the input vectors along with their corresponding target vectors</span></li>
+</ul>
+<p> </p>
+<p class="align-center"><span style="font-weight: 400;">2 main types: </span></p>
+<p> </p>
+<p class="msg msg--success"><strong>Classification:</strong><span style="font-weight: 400;"> Predicting a class label</span></p>
+<p class="msg msg--success"><strong>Regression:</strong><span style="font-weight: 400;"> Predicting a numerical label</span></p>
+<hr>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Unsupervised learning</strong><span style="font-weight: 400;"> is using a model to describe or extract relationships in data. Operates on only the input data without target variables</span></li>
+</ul>
+<p> </p>
+<p class="align-center post__lead"><span style="font-weight: 400;">2 main types: </span></p>
+<p> </p>
+<p class="msg msg--success"><strong>Clustering:</strong><span style="font-weight: 400;"> Finding groups in data</span></p>
+<p class="msg msg--success"><strong>Density Estimation</strong><span style="font-weight: 400;">: Summarizing distribution of data</span></p>
+<hr>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Semi-supervised</strong><span style="font-weight: 400;"> - training data contains very few labeled examples &amp; large number of unlabeled examples. </span></li>
+</ul>
+<p> </p>
+<p><span style="font-weight: 400;">The goal is to make effective use of all of the available data. </span></p>
+<p><span style="font-weight: 400;">A mixture of supervised &amp; unsupervised methods are used.</span></p>
+<hr>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Reinforcement learning</strong><span style="font-weight: 400;"> - an agent operates in an environment &amp; learns to operate using feedback.</span></li>
+</ul>
+<p><span style="font-weight: 400;">There's no fixed training dataset, just a set of goals that an agent is set to achieve &amp; there is a feedback loop between the learning system and its experiences.</span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/4/1_DjUEt5-t6lCjYG_MuZlLg.png" alt="Supervised Learning" />
+                <p class="post__lead msg msg--highlight "><span style="font-weight: 400;">There are different types of learning models. These 4 are the most common that you usually come across. </span></p>
+<p> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Supervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unsupervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Semi-supervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reinforcement</span></li>
+</ul>
+<p><br><br></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Supervised learning</strong><span style="font-weight: 400;"> - Applications in which the training data is examples of the input vectors along with their corresponding target vectors</span></li>
+</ul>
+<p> </p>
+<p class="align-center"><span style="font-weight: 400;">2 main types: </span></p>
+<p> </p>
+<p class="msg msg--success"><strong>Classification:</strong><span style="font-weight: 400;"> Predicting a class label</span></p>
+<p class="msg msg--success"><strong>Regression:</strong><span style="font-weight: 400;"> Predicting a numerical label</span></p>
+<hr>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Unsupervised learning</strong><span style="font-weight: 400;"> is using a model to describe or extract relationships in data. Operates on only the input data without target variables</span></li>
+</ul>
+<p> </p>
+<p class="align-center post__lead"><span style="font-weight: 400;">2 main types: </span></p>
+<p> </p>
+<p class="msg msg--success"><strong>Clustering:</strong><span style="font-weight: 400;"> Finding groups in data</span></p>
+<p class="msg msg--success"><strong>Density Estimation</strong><span style="font-weight: 400;">: Summarizing distribution of data</span></p>
+<hr>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Semi-supervised</strong><span style="font-weight: 400;"> - training data contains very few labeled examples &amp; large number of unlabeled examples. </span></li>
+</ul>
+<p> </p>
+<p><span style="font-weight: 400;">The goal is to make effective use of all of the available data. </span></p>
+<p><span style="font-weight: 400;">A mixture of supervised &amp; unsupervised methods are used.</span></p>
+<hr>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Reinforcement learning</strong><span style="font-weight: 400;"> - an agent operates in an environment &amp; learns to operate using feedback.</span></li>
+</ul>
+<p><span style="font-weight: 400;">There's no fixed training dataset, just a set of goals that an agent is set to achieve &amp; there is a feedback loop between the learning system and its experiences.</span></p>
+
+<h3 class="align-center"><span style="font-weight: 400;">Supervised learning</span></h3>
+<p> </p>
+<p><span style="font-weight: 400;">Input data is labeled &amp; the program learns to predict the output based on the input examples</span></p>
+<p><span style="font-weight: 400;">Model input</span></p>
+<p><span style="font-weight: 400;">Image =🐒🐘🐕</span></p>
+<p><span style="font-weight: 400;">label = dog,monkey,cat,dog</span></p>
+<p><span style="font-weight: 400;">Model prediction input</span></p>
+<p><span style="font-weight: 400;">Image =🐒</span></p>
+<p><span style="font-weight: 400;">Model output  =  It's a monkey! 🐒</span></p>
+<p> </p>
+<p class="align-center"><strong>2 types of supervised learning</strong></p>
+<p> </p>
+<p class="dropcap"><strong>Regression</strong><span style="font-weight: 400;"> model predicts continuous values</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Value of house in LA?</span></p>
+<p><span style="font-weight: 400;">What's the probability of stock value to rise?</span></p>
+<p class="dropcap"><strong>Classification </strong><span style="font-weight: 400;">model predicts discrete values</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Is this image cat or dog?</span></p>
+<p><span style="font-weight: 400;">Is this email spam?</span></p>
+<p><span style="font-weight: 400;">Regression is form of predictive analysis. It is used for:</span></p>
+<p><span style="font-weight: 400;">Forecasting - estimate growth in sales</span></p>
+<p><span style="font-weight: 400;">Time-series - closing value of stock exchange</span></p>
+<p><span style="font-weight: 400;">Finding cause effect relationships - effect of price change on sales</span></p>
+<p><span style="font-weight: 400;">most common regression types are:</span></p>
+<hr>
+<p><strong>Linear Regression</strong><span style="font-weight: 400;"> - Establishes a relationship between dependent variable (Y) and one or more independent variables (X) using a best fit straight line</span></p>
+<p><strong>Logistic Regression</strong><span style="font-weight: 400;"> - Used to find probability of an event</span></p>
+<p><span style="font-weight: 400;">Logistic regression estimates probability as output which we can use in 2 ways:</span></p>
+<p><span style="font-weight: 400;">"As is" - probability that a dog will bark at night eg: 0.06</span></p>
+<p><span style="font-weight: 400;">Converted to a binary category - for a classification problem. "Email is a spam or not" == 0 or 1</span></p>
+<p><span style="font-weight: 400;">Classification models predicts the class to which input data elements belongs. It is best used when the output has finite and discrete values.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Email is spam or not</span></p>
+<p><span style="font-weight: 400;">Student will pass an exam or now</span></p>
+<blockquote>
+<p> </p>
+</blockquote>
+<p class="msg msg--highlight "><span style="font-weight: 400;">Classification Algorithms</span></p>
+<p> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Linear Models (binary)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Logistic Regression</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Support Vector Machines</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Nonlinear models (multi-class)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">K-nearest Neighbors (KNN)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Kernel Support Vector Machines (SVM)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Naïve Bayes</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Decision Tree</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Random Forest</span></li>
+</ul>
+<p><br><br></p>
+<p><span style="font-weight: 400;">(Two common Regression Types)</span></p>
+<p><a href="https://twitter.com/i/status/1357947133916155907"><span style="font-weight: 400;">https://twitter.com/i/status/1357947133916155907</span></a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>💁Day 2 Labels</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-2.html"/>
+        <id>https://aayushhh.github.io/blogss/day-2.html</id>
+            <category term="Supervised Learning"/>
+            <category term="ML"/>
+            <category term="Labels"/>
+            <category term="Features"/>
+            <category term="Examples"/>
+            <category term="AI"/>
+
+        <updated>2021-03-06T01:05:06+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/3/CFFL-Report-10.png" alt="Labels" />
+                    Let's explore #MachineLearning terms for supervised learning: Models - defines the relationship between features &amp; label. Eg: The y variable in simple linear regression. The label could be the future price of wheat, the kind of animal shown in a picture, the meaning of an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/3/CFFL-Report-10.png" alt="Labels" />
+                <p><span style="font-weight: 400;">Let's explore</span><a href="https://twitter.com/hashtag/MachineLearning?src=hashtag_click"> <span style="font-weight: 400;">#MachineLearning</span></a><span style="font-weight: 400;"> terms for supervised learning:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Labels</strong><span style="font-weight: 400;"> - the thing we're predicting</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Features</strong><span style="font-weight: 400;"> - an input variable</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Examples</strong><span style="font-weight: 400;"><span style="font-weight: 400;"> - particular instance of data (Labeled/Unlabeled)</span></span><hr></li>
+</ul>
+<p><span style="font-weight: 400;">Models - defines the relationship between features &amp; label.</span></p>
+<p class="align-left"> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Labels</strong><span style="font-weight: 400;"> - the thing we're predicting</span></li>
+</ul>
+<p class="align-left"> </p>
+<p><span style="font-weight: 400;">Eg: The y variable in simple linear regression. The label could be the future price of wheat, the kind of animal shown in a picture, the meaning of an audio clip, or just about anything.</span></p>
+<p class="align-left"> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Features </strong><span style="font-weight: 400;">- an input variable x in linear regression. </span></li>
+</ul>
+<p class="align-left"> </p>
+<p><span style="font-weight: 400;">A simple ML project might use 1 feature X, while a sophisticated project could use millions of features X1, X2, ..... Xn</span></p>
+<p class="align-left"> </p>
+<p><span style="font-weight: 400;">Eg: In the spam detector, features could be:</span></p>
+<p><span style="font-weight: 400;">Words in email</span></p>
+<p><span style="font-weight: 400;">Sender's address</span></p>
+<p><span style="font-weight: 400;">Time</span></p>
+<p><span style="font-weight: 400;">Some phrase</span></p>
+<p class="align-left"> </p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Examples -</strong><span style="font-weight: 400;"> a particular instance of data (X)</span></li>
+</ul>
+<p><span style="font-weight: 400;">is a vector</span></p>
+<p><span style="font-weight: 400;">Labeled - includes both feature(s) &amp; labels</span></p>
+<p><span style="font-weight: 400;">Unlabeled - contains features but not labels</span></p>
+<p><span style="font-weight: 400;">Model is trained on labeled examples &amp; is used to predict the label on unlabeled examples.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>Models</strong><span style="font-weight: 400;"> - defines the relationship between features &amp; label.</span></li>
+</ul>
+<p><span style="font-weight: 400;">There are 2 phases of a model's life:</span></p>
+<p><span style="font-weight: 400;">Training - creating/learning the model from labeled examples</span></p>
+<p><span style="font-weight: 400;">Inference - applying the trained model to unlabeled examples. </span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Day 1 Machine Learning </title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/vf.html"/>
+        <id>https://aayushhh.github.io/blogss/vf.html</id>
+            <category term="Machine learning"/>
+            <category term="ML"/>
+            <category term="Day1"/>
+            <category term="Artificial Intelligence"/>
+            <category term="AI"/>
+            <category term="31daysofML"/>
+
+        <updated>2021-03-06T01:03:58+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/2/Screenshot-from-2021-03-06-00-27-53.png" alt="What are the &amp; steps in Machine learning" />
+                    ⚡Let's go Day 1 of #31DaysofML 🤔What is #MachineLearning? 📊ML = Using data to answer questions! Using data = Training Answer questions = Predictions Let's keep going… 1.Collect Data The Quantity &amp; quality of your data dictate how accurate our model is The outcome of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/2/Screenshot-from-2021-03-06-00-27-53.png" alt="What are the &amp; steps in Machine learning" />
+                <p class="align-center">⚡Let's go Day 1 of #31DaysofML <br><br><br>🤔What is<a href="https://twitter.com/hashtag/MachineLearning?src=hashtag_click"> #MachineLearning</a>?<br><br><br>📊ML = Using data to answer questions! <br><br>Using data = Training<br><br>Answer questions = Predictions<br><br><br>Let's keep going…<br><br></p>
+<hr>
+<p><br><strong>1.Collect Data</strong><br><br>The Quantity &amp; quality of your data dictate how accurate our model is<br><br>The outcome of this step is usually a table with some values (features)<br><br>If you want to use pre-collected data - get it from sources such as Kaggle or BigQuery Public Datasets <br><br><br><strong>2.Prepare Data</strong><br><br>Wrangle data and prepare it for training <br><br>Split data into training, test, and evaluation sets<br><br>Clean data - correct errors, missing values, normalize</p>
+<p><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">3.Choose a model</strong></p>
+<p><span style="font-weight: 400;">These 4 are the most common that you usually come across. </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Supervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unsupervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Semi-supervised</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reinforcement</span></li>
+</ul>
+<p><strong>4.Train the Model</strong><br><br>Goal = make a prediction correctly as often as possible<br><br>Depends on the learning method chosen in step 3<br><br><strong>Eg:</strong> Linear regression algorithm would learn values for weights &amp; biases in y = mx + b<br><br>💯Each iteration of the process is a training step<br><br><br><strong>5.Evaluate the Model</strong><br><br><br>Test the model against unseen data (usually 20% of data is set aside for this)<br><br>Use some metric or combination of metrics to "measure" the objective performance of the model<br><br><br><strong>6.Parameter Tuning - </strong></p>
+<p>Also called Hyper parameter Tuning </p>
+<p>Tune model parameters for improved performance. </p>
+<p>These include learning rate, training steps, etc</p>
+<hr>
+<p><br><br><br></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How To Install And Run AppImage on Linux</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/how-to-install-and-run-appimage-on-linux.html"/>
+        <id>https://aayushhh.github.io/blogss/how-to-install-and-run-appimage-on-linux.html</id>
+            <category term="Ubuntu"/>
+            <category term="Linux"/>
+            <category term="Hacks"/>
+            <category term="AppImage"/>
+
+        <updated>2021-03-06T00:13:56+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/1/1_M_kWuUBDNY2J5EuHo90F_A.png" alt="AppImage Linux" />
+                     Installing AppImage on your Linux System… Linux has a number of ways to install software and applications thanks to how flexible Linux has become and the open source community behind it. One of the ways of installing software on Linux is using App Image.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/1/1_M_kWuUBDNY2J5EuHo90F_A.png" alt="AppImage Linux" />
+                
+    <h2 id="installing-appimage-on-your-linux-systembr" class="align-center">
+      Installing AppImage on your Linux System…<br>
+    </h2>
+
+  <p>
+    Linux has a number of ways to install software and applications thanks to how flexible Linux has become and the open source community behind it.<br>
+  </p>
+
+  <p>
+    One of the ways of installing software on Linux is using App Image.<br>Whats App Image?
+  </p>
+
+    <h3 id="whats-appimage">
+      Whats AppImage?
+    </h3>
+
+  <p>
+    AppImage is a universal software package format that can be installed on Linux without going through the traditional way of installation. It doesn't require any root permission to install the software.<br>To install An AppImage, all you need to do is make it executable and run it. It is a compressed image with all the dependencies and libraries needed to run the desired software.
+  </p>
+
+  <p>
+    So there is no extraction, no installation needed. You can uninstall it by deleting it. Just compare it to .exe in Windows that can run without installing it.
+  </p>
+
+  <p>
+    Some notable features of App Image are:
+  </p>
+
+  <ul>
+    <li>It can run on various different Linux distributions</li><li>There’s no need for installing and compiling software</li><li>Portability — It can run on live disks</li><li>Software is uninstalled just by deleting the AppImage file</li>
+  </ul>
+
+    <h2 id="how-to-install-and-run-appimage">
+      How to Install and Run AppImage?
+    </h2>
+
+  <p>
+    The good thing about AppImages is that you don’t have to actually install the app, just run it. So how do you do this? It’s actually quite simple, first of all, download the app image. Then I will show you in two methods.
+  </p>
+
+    <h4 id="using-properties">
+      Using Properties
+    </h4>
+
+  <p>
+    Right click on the AppImage file, click on Properties. Click on <b>Permissions </b>and click on <b>Allow executing the file as a program.</b>
+  </p>
+
+    <h4 id="using-terminalbr">
+      Using Terminal<br>
+    </h4>
+
+  <p>
+    Open any Terminal of your choice, head over to the app image directory and run:
+  </p>
+<pre class="line-numbers  language-git"><code>chmod u+x   &lt;AppImageFile&gt;
+</code></pre>
+
+  <p>
+    <b>Then you can now double click to run it.<br>That’s all.</b>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

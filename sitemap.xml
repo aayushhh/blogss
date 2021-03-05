@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://aayushhh.github.io/blogss/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://aayushhh.github.io/blogss/</loc>
+</url>
+<url>
+<loc>https://aayushhh.github.io/blogss/day-2.html</loc>
+<lastmod>2021-03-06T01:05:06+05:30</lastmod>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/3/CFFL-Report-10.png</image:loc>
+<image:title><![CDATA[Labels]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aayushhh.github.io/blogss/day-3-supervised-learning.html</loc>
+<lastmod>2021-03-06T01:02:25+05:30</lastmod>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/4/1_DjUEt5-t6lCjYG_MuZlLg.png</image:loc>
+<image:title><![CDATA[Supervised Learning]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aayushhh.github.io/blogss/day-5-unsupervised-learning.html</loc>
+<lastmod>2021-03-06T01:15:01+05:30</lastmod>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44-2.png</image:loc>
+<image:title><![CDATA[Unsupervised Learning]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44.png</image:loc>
+<image:title><![CDATA[Plots]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-10-08.png</image:loc>
+<image:title><![CDATA[Dimesions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-11-41.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-12-33.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aayushhh.github.io/blogss/how-to-install-and-run-appimage-on-linux.html</loc>
+<lastmod>2021-03-06T00:13:56+05:30</lastmod>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/1/1_M_kWuUBDNY2J5EuHo90F_A.png</image:loc>
+<image:title><![CDATA[AppImage Linux]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://aayushhh.github.io/blogss/vf.html</loc>
+<lastmod>2021-03-06T01:03:58+05:30</lastmod>
+<image:image>
+<image:loc>https://aayushhh.github.io/blogss/media/posts/2/Screenshot-from-2021-03-06-00-27-53.png</image:loc>
+<image:title><![CDATA[What are the & steps in Machine learning]]></image:title>
+</image:image>
+</url>
+</urlset>
