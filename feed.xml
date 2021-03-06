@@ -3,12 +3,373 @@
     <title>Blogs</title>
     <link href="https://aayushhh.github.io/blogss/feed.xml" rel="self" />
     <link href="https://aayushhh.github.io/blogss" />
-    <updated>2021-03-06T01:15:01+05:30</updated>
+    <updated>2021-03-06T13:27:14+05:30</updated>
     <author>
         <name>Aayush</name>
     </author>
     <id>https://aayushhh.github.io/blogss</id>
 
+    <entry>
+        <title>Day 8 AI vs ML vs DL</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-8-ai-vs-ml-vs-dl.html"/>
+        <id>https://aayushhh.github.io/blogss/day-8-ai-vs-ml-vs-dl.html</id>
+            <category term="Machine learning"/>
+            <category term="ML"/>
+            <category term="Artificial Intelligence"/>
+            <category term="AI"/>
+            <category term="31daysofML"/>
+
+        <updated>2021-03-06T13:27:14+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/9/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                    <h2 class="c42 c29 c34 c15 align-center"><span class="c47 c53 c11 c55">AI vs ML vs DL! How are they different?</span></h2>
+<p class="c42 c29 c34 c15 msg msg--success"><span class="c47 c53 c55 c11">👉 AI - Machines that can learn, reason, and act for themselves</span></p>
+<p class="c42 c29 c34 c15 msg msg--success"><span class="c47 c53 c55 c11">👉 ML - Looking for patterns in data using statistical algorithms</span></p>
+<p class="c42 c29 c34 c15 msg msg--success"><span class="c47 c53 c55 c11">👉 DL - Technique to perform ML inspired by our brain's network of neurons  </span></p>
+<p class="c13 c11 c34 c15"><strong><span class="c53 c30 c11">What is </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/ArtificialIntelligence&amp;sa=D&amp;source=editors&amp;ust=1615019496228000&amp;usg=AOvVaw3J25GEWHkBCDihEYGMQL29">#ArtificialIntelligence</a></span><span class="c16 c11">?</span></strong></p>
+<p class="c13 c11 c34 c15 msg msg--highlight "><span class="c53 c30 c11">It is essentially refers to machines that can learn, reason, and act for themselves. This flowchart and the blog by </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://twitter.com/_KarenHao&amp;sa=D&amp;source=editors&amp;ust=1615019496228000&amp;usg=AOvVaw1U6z9I6wVkUGFTygv-474r">@_KarenHao</a></span><span class="c16 c11"> clarifies it very well!</span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496229000&amp;usg=AOvVaw3GlidL5I8shvNSBQEnE68L">technologyreview.com/2018/11/10/139…</a></span></p>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh4.googleusercontent.com/Tt9ZzSmBIx4RDITSzrmFtgWnJ9bRinKLf8OnJUcYp0DuEdW6rDazTEnc7cWdwV1G1761KUlS2Yh3BNpwnGRmJd6X20-3D2bj13amJ7hzuqUjuq0c3yWZvB4HfAXn10_qE7rGDIut" data-is-external-image="true"  alt="" width="682" height="341"></figure>
+<p class="c49 c11"><span class="c17 c11"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496231000&amp;usg=AOvVaw2hI8aEKvvlvW5G6xMiilVN">What is AI? We drew you a flowchart to work it out</a></span></p>
+<p class="c49 c11"><span class="c38 c11"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496231000&amp;usg=AOvVaw2hI8aEKvvlvW5G6xMiilVN">What is AI, exactly? The question may seem basic, but the answer is kind of complicated. In the broadest sense, AI refers to machines that can learn, reason, and act for themselves. They can make thei…</a></span></p>
+<p class="c31 c11"><span class="c11 c27"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496232000&amp;usg=AOvVaw3iwFtWSm9vNJUSYWDtf43t">https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/</a></span></p>
+<p class="c12 c25 c15"> </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/9/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                <h2 class="c42 c29 c34 c15 align-center"><span class="c47 c53 c11 c55">AI vs ML vs DL! How are they different?</span></h2>
+<p class="c42 c29 c34 c15 msg msg--success"><span class="c47 c53 c55 c11">👉 AI - Machines that can learn, reason, and act for themselves</span></p>
+<p class="c42 c29 c34 c15 msg msg--success"><span class="c47 c53 c55 c11">👉 ML - Looking for patterns in data using statistical algorithms</span></p>
+<p class="c42 c29 c34 c15 msg msg--success"><span class="c47 c53 c55 c11">👉 DL - Technique to perform ML inspired by our brain's network of neurons  </span></p>
+<p class="c13 c11 c34 c15"><strong><span class="c53 c30 c11">What is </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/ArtificialIntelligence&amp;sa=D&amp;source=editors&amp;ust=1615019496228000&amp;usg=AOvVaw3J25GEWHkBCDihEYGMQL29">#ArtificialIntelligence</a></span><span class="c16 c11">?</span></strong></p>
+<p class="c13 c11 c34 c15 msg msg--highlight "><span class="c53 c30 c11">It is essentially refers to machines that can learn, reason, and act for themselves. This flowchart and the blog by </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://twitter.com/_KarenHao&amp;sa=D&amp;source=editors&amp;ust=1615019496228000&amp;usg=AOvVaw1U6z9I6wVkUGFTygv-474r">@_KarenHao</a></span><span class="c16 c11"> clarifies it very well!</span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496229000&amp;usg=AOvVaw3GlidL5I8shvNSBQEnE68L">technologyreview.com/2018/11/10/139…</a></span></p>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh4.googleusercontent.com/Tt9ZzSmBIx4RDITSzrmFtgWnJ9bRinKLf8OnJUcYp0DuEdW6rDazTEnc7cWdwV1G1761KUlS2Yh3BNpwnGRmJd6X20-3D2bj13amJ7hzuqUjuq0c3yWZvB4HfAXn10_qE7rGDIut" data-is-external-image="true"  alt="" width="682" height="341"></figure>
+<p class="c49 c11"><span class="c17 c11"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496231000&amp;usg=AOvVaw2hI8aEKvvlvW5G6xMiilVN">What is AI? We drew you a flowchart to work it out</a></span></p>
+<p class="c49 c11"><span class="c38 c11"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496231000&amp;usg=AOvVaw2hI8aEKvvlvW5G6xMiilVN">What is AI, exactly? The question may seem basic, but the answer is kind of complicated. In the broadest sense, AI refers to machines that can learn, reason, and act for themselves. They can make thei…</a></span></p>
+<p class="c31 c11"><span class="c11 c27"><a class="c7" href="https://www.google.com/url?q=https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/&amp;sa=D&amp;source=editors&amp;ust=1615019496232000&amp;usg=AOvVaw3iwFtWSm9vNJUSYWDtf43t">https://www.technologyreview.com/2018/11/10/139137/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/</a></span></p>
+<p class="c12 c25 c15"> </p>
+
+<p class="c42 c25 c11 c34"> </p>
+<p class="c42 c11 c34"><span class="c53 c11">I played with Teachable Machine today and created a </span><span class="c11 c60"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/nocode&amp;sa=D&amp;source=editors&amp;ust=1615019496233000&amp;usg=AOvVaw1lPeBrD8AS02AMZJeXWfTw">#nocode</a></span><span class="c53 c11"> classification model in less than 5 mins! It's a web-based tool making </span><span class="c60 c11"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/machinelearning&amp;sa=D&amp;source=editors&amp;ust=1615019496234000&amp;usg=AOvVaw1j0qgD9Z57aKjZHi7U523T">#machinelearning</a></span><span class="c47 c53 c55 c11"> models fast, easy, and accessible to everyone.</span></p>
+<p class="c42 c25 c11 c34"> </p>
+<p class="c42 c11 c34"><span class="c47 c53 c55 c11">See how I created a yoga pose classification model 🧵👇</span></p>
+<p class="c42 c11 c34 c101"><span class="c76 c11 c93"><a class="c7" href="https://www.google.com/url?q=https://video.twimg.com/tweet_video/EuI2VdrVkAEFq9c.mp4&amp;sa=D&amp;source=editors&amp;ust=1615019496234000&amp;usg=AOvVaw1E64FTh10kHbULSXhcZbwV">Video</a></span><span class="c47 c53 c55 c11"> </span></p>
+<p class="c13 c11 c34 align-center"><span class="c16 c11">🤔 How to use Teachable Machines?</span></p>
+<p class="c13 c11 c34 msg msg--highlight "><span class="c16 c11">📌Gather data (upload it or use webcam/microphone)</span></p>
+<p class="c13 c11 c34 msg msg--highlight "><span class="c16 c11">📌Train model (in the web interface)</span></p>
+<p class="c13 c11 c34 msg msg--highlight "><span class="c16 c11">📌Export the model (use it in your app)</span></p>
+<p> </p>
+<p class="c13 c11 c34 align-center"><span class="c16 c11">🤔 What type of data can I use to train the model?</span></p>
+<p class="c13 c11 c34 msg msg--success"><span class="c11 c16">🖼 Images</span></p>
+<p class="c13 c11 c34 msg msg--success"><span class="c16 c11">🔊 Sounds</span></p>
+<p class="c13 c11 c34 msg msg--success"><span class="c16 c11">🧘‍♀️ Poses</span></p>
+<p class="c13 c11 c34"> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh5.googleusercontent.com/Jzixe8QorpIYoP83BXYR5Z6aRiCAHncdSqDIWQa3PvcgeURS0sMPKlZzCIFW8m7iJU0PQqhuo94x06oPIFMelbO64NoO2DNSPt44EqH1tP6DYsacvI9dX9_O-wqrtbyIiwCxAihF" data-is-external-image="true"  alt="Image" width="682" height="344"></figure>
+<p class="c12"><span class="c16 c11">Now, get out of your chair 🪑 and try out my yoga 🧘‍♀️ pose classification model with any of these poses:</span></p>
+<p class="c12"><span class="c16 c11">📌 Goddess</span></p>
+<p class="c12"><span class="c16 c11">📌 Warrior2</span></p>
+<p class="c12"><span class="c16 c11">📌 Tree</span></p>
+<p class="c12"><span class="c16 c11">📌 Downdog</span></p>
+<p class="c12 c25"> </p>
+<p class="c12"><span class="c53 c30 c11">Here is my model 👉 </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://teachablemachine.withgoogle.com/models/vkzpnwtIQ/&amp;sa=D&amp;source=editors&amp;ust=1615019496237000&amp;usg=AOvVaw0G6ERavcQaCzPsv8T8_CpM">teachablemachine.withgoogle.com/models/vkzpnwt…</a></span></p>
+<p class="c12"><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/31DaysofML&amp;sa=D&amp;source=editors&amp;ust=1615019496238000&amp;usg=AOvVaw1plwQTMwZFDk1mka36E8wo">#31DaysofML</a></span><span class="c16 c11"> </span></p>
+<p class="c20"><img loading="lazy" title="" src="https://lh6.googleusercontent.com/08KO69JDzc4K1nJ3F06MheE3eV3Rr3Jx8rz38GEFp5hD8S4qiJrBBmUybSsQJbB-PILaEPS6B36HFUoevHyMSqkKY2Nd3OhgJWxKEUcDYO4Gm-WdveBRd8NnVRb1W9bwVfuygxzX" data-is-external-image="true"  alt="" width="190" height="107"></p>
+<p class="c20"><span class="c17 c11"><a class="c7" href="https://www.google.com/url?q=https://teachablemachine.withgoogle.com/&amp;sa=D&amp;source=editors&amp;ust=1615019496239000&amp;usg=AOvVaw24AjjD2wy0djdaVWP0-HiG" style="border-bottom: 3px solid rgba(var(--yellow), 1);">Teachable Machine</a></span></p>
+<p class="c20"><span class="c38 c11"><a class="c7" href="https://www.google.com/url?q=https://teachablemachine.withgoogle.com/&amp;sa=D&amp;source=editors&amp;ust=1615019496239000&amp;usg=AOvVaw24AjjD2wy0djdaVWP0-HiG" style="border-bottom: 3px solid rgba(var(--yellow), 1);">Train a computer to recognize your own images, sounds, &amp; poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.</a></span></p>
+<p class="c31 c29"><span class="c27 c11"><a class="c7" href="https://www.google.com/url?q=https://teachablemachine.withgoogle.com/&amp;sa=D&amp;source=editors&amp;ust=1615019496240000&amp;usg=AOvVaw1RAoIlqq8A3wvazZlvpStk" style="border-bottom: 3px solid rgba(var(--yellow), 1);">https://teachablemachine.withgoogle.com/models/vkzpnwtIQ/</a></span></p>
+<p class="c13 c25 c11 c34"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Day 7 Things to Remeber</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-7-things-to-remeber.html"/>
+        <id>https://aayushhh.github.io/blogss/day-7-things-to-remeber.html</id>
+            <category term="Model Accuracy"/>
+            <category term="Machine learning"/>
+            <category term="ML Ops"/>
+            <category term="Building Model"/>
+            <category term="31daysofML"/>
+
+        <updated>2021-03-06T13:27:07+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/8/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                    Since its Day 10 of #31DaysofML it's perfect to discuss 1️⃣0️⃣ things that can go wrong with #MachineLearning Projects and what you can do about it! I watched this amazing presentation by @kweinmeister that sums it all up 1️⃣ You aren't solving the right problem ❓What's the goal of your ML&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/8/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                <p class="c42 c11 c34 c15 msg msg--success"><span class="c53 c11">Since its Day 10 of </span><span class="c60 c11"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/31DaysofML&amp;sa=D&amp;source=editors&amp;ust=1615019496211000&amp;usg=AOvVaw0N2G6AV7WyIetHtjNKhSDQ">#31DaysofML</a></span><span class="c53 c11"> it's perfect to discuss 1️⃣0️⃣ things that can go wrong with </span><span class="c60 c11"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/MachineLearning&amp;sa=D&amp;source=editors&amp;ust=1615019496211000&amp;usg=AOvVaw3GyTkQtlAXXUpMC-bFuz5-">#MachineLearning</a></span><span class="c47 c53 c55 c11"> Projects and what you can do about it!</span></p>
+<p class="c42 c25 c11 c34 c15"> </p>
+<p class="c42 c11 c34 c15"><span class="c53 c11">I watched this amazing presentation by </span><span class="c60 c11"><a class="c7" href="https://www.google.com/url?q=https://twitter.com/kweinmeister&amp;sa=D&amp;source=editors&amp;ust=1615019496212000&amp;usg=AOvVaw0lHqB5EjLYKOKZe0grd95H">@kweinmeister</a></span><span class="c47 c53 c55 c11"> that sums it all up</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh3.googleusercontent.com/RZVuXNZuLNsfuz796SNkaKCaTShiw-iw1CKQfZuVJfl1yP296jWLbkt0QBTNmlIglQu3oVBe5yuOWQt33lavqOt905LkcE9U8qXPxQ5CqGK8ySB2aZMP7_23MdVHGbDqe0McUgye" data-is-external-image="true"  alt="Image" width="709" height="399"></figure>
+<p class="c13 c11 c34 c15"><span class="c16 c11">1️⃣ You aren't solving the right problem</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">❓What's the goal of your ML model?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">❓How do you assess if your model is "good" or "bad"?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">❓What's your baseline?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Focus on a long-term mission with maximum impact</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Ensure that your problem is a good fit for ML</span></p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">2️⃣ Jumping into development without a prototype</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 ML project is an iterative process</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Start with simple model &amp; continue to refine it until you've reached your goal</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Quick prototype can tell a lot about hidden requirements, implementation challenges, scope, etc</span></p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">3️⃣ Model training can take a long time</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 When your team is trying to rapidly iterate on new ideas and techniques, training time can slow down projects and get in the way of innovation.</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Use GPU's, TPUs to speed up training</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Use serverless training methods</span></p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">4️⃣ You have an imbalanced dataset</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">❓ How can you balance accuracy across each class?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Weighting each class</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Oversampling and undersampling</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Generating synthetic data</span></p>
+<p class="c13 c11 c34 c15"><span class="c53 c30 c11">Here's a tutorial to checkout </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://tensorflow.org/tutorials/structured_data/imbalanced_data&amp;sa=D&amp;source=editors&amp;ust=1615019496217000&amp;usg=AOvVaw1oO9tajA_E3v--sBycjDWP">tensorflow.org/tutorials/stru…</a></span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh5.googleusercontent.com/2-rX0kfRty3WVHWO_T4GYYBNm7lRF6x80a5DcfjRbMskQpMtnYaaoxFg8VuqKxKoZMVCVq8zV6H-G9ON2QGF9Zei7gMis7UNKuIHlEZzj5axTpDbE4GfOTnX2DPXT9mA3Oca-XWF" data-is-external-image="true"  alt="" width="123" height="69"></figure>
+<p class="c49 c11"><span class="c11 c17"><a class="c7" href="https://www.google.com/url?q=https://www.tensorflow.org/tutorials/structured_data/imbalanced_data&amp;sa=D&amp;source=editors&amp;ust=1615019496218000&amp;usg=AOvVaw2n0Izkj5IERncKDBbQ0whd">Classification on imbalanced data  |  TensorFlow Core</a></span></p>
+<p class="c31 c11"><span class="c27 c11"><a class="c7" href="https://www.google.com/url?q=https://www.tensorflow.org/tutorials/structured_data/imbalanced_data&amp;sa=D&amp;source=editors&amp;ust=1615019496219000&amp;usg=AOvVaw3TCun77eGIVFR-g4ueom3V">https://tensorflow.org/tutorials/structured_data/imbalanced_data</a></span></p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">5️⃣ Your model's accuracy is not good enough</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Include more varied training data</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Feature engineering</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Try different model architectures, hyper-parameter tuning &amp; ensembles</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Remove features that may be causing overfitting, start with a smaller model &amp; add features slowly</span></p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">6️⃣ Your model doesn't serve all of your users well</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">"Fairness is the process of understanding bias introduced by your data &amp; ensuring your model provides equitable predictions across all demographic groups"</span></p>
+<p class="c13 c11 c34 c15"><span class="c53 c30 c11">- read more 👉 </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://bit.ly/2Ly9wMM&amp;sa=D&amp;source=editors&amp;ust=1615019496220000&amp;usg=AOvVaw2Aj82UiKSgO4ytQexWamk_">bit.ly/2Ly9wMM</a></span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/31DaysofML&amp;sa=D&amp;source=editors&amp;ust=1615019496221000&amp;usg=AOvVaw1Exwl56dnzjSMIn0-yrTRJ">#31DaysofML</a></span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh5.googleusercontent.com/XA8q5lqvvt0lkMoLuXw3M6RWK8gUmpt1OixjZ1pw-Ec5MwFjO2CVt7u9BAjFPr-psB9smbUhp7WNnx45iuPWBBaGvCeh5HNM6_lIN_L2qy6siUglzhoPpKW9ydiqdggp3niS-KbM" data-is-external-image="true"  alt="Image" width="682" height="384"></figure>
+<p class="c49 c11"><img loading="lazy" title="" src="https://lh3.googleusercontent.com/BLkXYbTk9q6GQCmQBHsLVX8A3-XZF16z413T76aSPyy5Rl3axjPL6bxEznNoC0jFihDepEgiDv3ZpnyQ90TRT0qh0qgyCQ-RrqOCkrffQulw6yohu44jiYDQv8CL7RppalpeFew1" data-is-external-image="true"  alt="" width="114" height="57"></p>
+<p class="c49 c11"><span class="c17 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/blog/&amp;sa=D&amp;source=editors&amp;ust=1615019496221000&amp;usg=AOvVaw1hd9pX_iRd_ws_ed_xCYp0">Building ML models for everyone: understanding fairness in machine learning</a></span></p>
+<p class="c49 c11"><span class="c11 c38"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/blog/&amp;sa=D&amp;source=editors&amp;ust=1615019496222000&amp;usg=AOvVaw37gSjGMK4i2hwv-DJstlRi">Learn why implementing ML fairness into an ML workflow is so important, and see tools and techniques to get started.</a></span></p>
+<p class="c31 c11"><span class="c27 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/blog/&amp;sa=D&amp;source=editors&amp;ust=1615019496222000&amp;usg=AOvVaw37gSjGMK4i2hwv-DJstlRi">https://bit.ly/2Ly9wMM</a></span></p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">7️⃣ It's unclear how your model works</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 How will you be able to explain how your model makes predictions?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Under what conditions does the model perform best and most consistently?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Does it have blind spots? If so, where?</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">Read about Explainable AI 👉</span></p>
+<p class="c49 c25 c11"> </p>
+<p class="c49 c11"><span class="c17 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/explainable-ai&amp;sa=D&amp;source=editors&amp;ust=1615019496224000&amp;usg=AOvVaw1t7cSk50CNZndpCu-3p2xv">Explainable AI  |  Google Cloud</a></span></p>
+<p class="c49 c11"><span class="c38 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/explainable-ai&amp;sa=D&amp;source=editors&amp;ust=1615019496224000&amp;usg=AOvVaw1t7cSk50CNZndpCu-3p2xv">Deploy interpretable and inclusive machine learning models with Explainable AI, tools and frameworks designed to instill user trust.</a></span></p>
+<p class="c31 c11"><span class="c27 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/explainable-ai&amp;sa=D&amp;source=editors&amp;ust=1615019496225000&amp;usg=AOvVaw2o2rXfFKPOWuWq15d8V1ia">https://bit.ly/3aFJdwx</a></span></p>
+<p> </p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">8️⃣ You could accidentally push a bad model into production</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Create ML pipeline to run same steps in same environment every time with a trigger/schedule</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Include steps - Data validation, Model evaluation, Conditional deployment</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">👉 Track pipeline runs &amp; artifacts</span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">9️⃣ Your model accuracy is drifting downward</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">See image 👇</span></p>
+<p class="c13 c11 c34 c15"> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  title="" src="https://lh5.googleusercontent.com/_cYKTK0_7-ZQLxuaOz4YnDJ7RvE4Z5-Z01-voMLpNqpXH2xlU8iWMuJoNCmJBhjC0U2DAMfS4FeN1B0ehTNlWOwKHXMN2nFsiRdZKtviAcAdeC6iHacCCG0LZIuLkeffkDJJPT-c" data-is-external-image="true"  alt="Image" width="682" height="384"></figure>
+<hr>
+<p class="c12 c15"><span class="c16 c11">1️⃣0️⃣ Model inference isn't scaling well in production</span></p>
+<p class="c12 c15"><span class="c16 c11">👉 Choose the right deployment tools that can scale</span></p>
+<p class="c12 c15"><span class="c16 c11">👉 Serve online endpoints for low-latency predictions, or predictions on massive batches of data</span></p>
+<p class="c12 c15"><span class="c16 c11">👉 Scale automatically based on your traffic</span></p>
+<p class="c12 c25 c15"> </p>
+<p class="c12 c15"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Day 6 Learning Rate</title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-6-learning-rate.html"/>
+        <id>https://aayushhh.github.io/blogss/day-6-learning-rate.html</id>
+            <category term="Machine learning"/>
+            <category term="ML"/>
+            <category term="Learning Rate"/>
+            <category term="31daysofML"/>
+
+        <updated>2021-03-06T13:26:54+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/7/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                    <h2 class="c24 c11 align-center"><span class="c8">📖 Learning Rate 📖 Also known as Step size</span></h2>
+<p class="c24 c11 msg msg--success"><span class="c8">It's a scalar that is multiplied with gradient vector (which has the direction &amp; magnitude) to provide the next value on the loss curve</span></p>
+<p class="c11 c64"> </p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://aayushhh.github.io/blogss/media/posts/7/Screenshot-from-2021-03-06-13-05-01.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-2xl.png 1600w"  alt="Reducing Loss" width="782" height="393">
+<figcaption >Caption</figcaption>
+</figure>
+<p class="c31 c11"><span class="c21 c30 c40">👉 Smaller the learning rate the longer it will take to find the lowest loss value</span></p>
+<p class="c31 c11"><span class="c21 c30 c40">👉 Large learning rate could overshoot the minimum</span></p>
+<p class="c31 c11"><span class="c21 c30 c40">👉 You the learning rate to be just right (Goldilock's learning rate) to get the convergence value efficiently</span></p>
+<hr>
+<p class="c31 c29"><span class="c21 c30 c40">Learning rate is one of the "Hyper parameters" that we tweak in machine learning algorithms. This is to tune the learning rate to efficiently get to the lowest loss value. There are more hyper parameters which we will get to later...</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/7/Screenshot-from-2021-03-06-13-03-15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-2xl.png 1600w"  alt="" width="682" height="345"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/7/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                <h2 class="c24 c11 align-center"><span class="c8">📖 Learning Rate 📖 Also known as Step size</span></h2>
+<p class="c24 c11 msg msg--success"><span class="c8">It's a scalar that is multiplied with gradient vector (which has the direction &amp; magnitude) to provide the next value on the loss curve</span></p>
+<p class="c11 c64"> </p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://aayushhh.github.io/blogss/media/posts/7/Screenshot-from-2021-03-06-13-05-01.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-05-01-2xl.png 1600w"  alt="Reducing Loss" width="782" height="393">
+<figcaption >Caption</figcaption>
+</figure>
+<p class="c31 c11"><span class="c21 c30 c40">👉 Smaller the learning rate the longer it will take to find the lowest loss value</span></p>
+<p class="c31 c11"><span class="c21 c30 c40">👉 Large learning rate could overshoot the minimum</span></p>
+<p class="c31 c11"><span class="c21 c30 c40">👉 You the learning rate to be just right (Goldilock's learning rate) to get the convergence value efficiently</span></p>
+<hr>
+<p class="c31 c29"><span class="c21 c30 c40">Learning rate is one of the "Hyper parameters" that we tweak in machine learning algorithms. This is to tune the learning rate to efficiently get to the lowest loss value. There are more hyper parameters which we will get to later...</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/7/Screenshot-from-2021-03-06-13-03-15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/7/responsive/Screenshot-from-2021-03-06-13-03-15-2xl.png 1600w"  alt="" width="682" height="345"></figure>
+
+<p class="c42 c11 c34 c15"><span class="c53 c11">💁‍♀️ I thought today I would share a tip that has helped me in my </span><span class="c60 c11"><a class="c7" href="https://www.google.com/url?q=https://threadreaderapp.com/hashtag/MachineLearning&amp;sa=D&amp;source=editors&amp;ust=1615019496205000&amp;usg=AOvVaw1maR1EfH4hC9BWFchPbzTK">#MachineLearning</a></span><span class="c47 c53 c55 c11"> journey</span></p>
+<p class="c42 c11 c34 c15"><span class="c47 c53 c55 c11">💡The best way to learn ML is to pick a problem that you feel excited about &amp; let it guide your learning path. Don't worry about the terms or tools, it's all secondary</span></p>
+<p class="c42 c11 c34 c15"><img loading="lazy" title="" src="https://lh5.googleusercontent.com/AUWQX-3MX1FAWA08iAru1rNQYWzsYRIP9qLU7kwwczXO_knL4FOW3UoCffyqrvUNZbfr416zT1MwzLlXvfGSKrmcE9pYwtYbyxK2_reDEkjgM8O3FeYGaw5ucrlICYrj8oOvyr5T" data-is-external-image="true"  alt=""><span class="c47 c53 c55 c11"> </span></p>
+<p class="c26 c11 c34 c15"><span class="c53 c30 c11">Here's an example. Few weeks ago I wanted to live translate an episode of </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://twitter.com/GCPPodcast&amp;sa=D&amp;source=editors&amp;ust=1615019496205000&amp;usg=AOvVaw3rdl6NuFLzGuQ1lyno1A7G">@GCPPodcast</a></span><span class="c16 c11">. The first question I asked myself was:</span></p>
+<p class="c26 c11 c34 c15"><span class="c16 c11">🤔 Does any video/audio translation API already exist?</span></p>
+<p class="c26 c11 c34 c15"><span class="c16 c11">🔹 If so - I would give that a try</span></p>
+<p class="c26 c11 c34 c15"><span class="c16 c11">🔹 If not, I would create it from scratch</span></p>
+<p class="c26 c25 c11 c34 c15"> </p>
+<hr>
+<p class="c13 c11 c34 c15"><span class="c16 c11">Next, I started digging into the Media Translation API which would translate audio &amp; video data.</span></p>
+<p class="c13 c11 c34 c15 post__lead"><span class="c16 c11">My point is:</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">📌 You don't always need to create a model</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">📌 Save yourself time &amp; resources by using the models that already exist (if they server your purpose)</span></p>
+<p class="c51 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">Media translation API served my purpose. It was:</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">🔹 Easy to setup</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">🔹 Provided real-time translations</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">🔹 Accuracy was high</span></p>
+<p class="c13 c11 c34 c15"><span class="c16 c11">🔹 I did not have to use Speech-to-Text &amp; Translation models separately</span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"><span class="c30 c11 c53">Read more 👉 </span><span class="c2"><a class="c7" href="https://www.google.com/url?q=https://bit.ly/gcp_mta&amp;sa=D&amp;source=editors&amp;ust=1615019496207000&amp;usg=AOvVaw3K3vlHvpc3nE7VZZeA58Zp">bit.ly/gcp_mta</a></span></p>
+<p class="c13 c25 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c98"><span class="c76 c30 c93 c11"><a class="c7" href="https://www.google.com/url?q=https://video.twimg.com/tweet_video/Et4jJ71VEAAccgU.mp4&amp;sa=D&amp;source=editors&amp;ust=1615019496208000&amp;usg=AOvVaw3ooX9I3GuQni8H08qg50GJ">Video</a></span></p>
+<p class="c49 c11"><img loading="lazy" title="" src="https://lh5.googleusercontent.com/8NDEjho8nJqBdqR2PeQ-UG1I-5_7I_vyctdqk-Y5h_0vpp0xnbFIqgju8PflhcT3dJXjBdFjSBKce8XUSvzR1ma1H8r7DCp7fmyWWEs2S2lCYPaun9wD1SAI_smQjo_AvVKGUWm3" data-is-external-image="true"  alt="" width="93" height="49"></p>
+<p class="c49 c11"><span class="c17 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/media-translation&amp;sa=D&amp;source=editors&amp;ust=1615019496209000&amp;usg=AOvVaw0ZXtZ0nWZPmMMGBDvcUEWR">Media Translation  |  Google Cloud</a></span></p>
+<p class="c49 c11"><span class="c38 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/media-translation&amp;sa=D&amp;source=editors&amp;ust=1615019496209000&amp;usg=AOvVaw0ZXtZ0nWZPmMMGBDvcUEWR">With Google Cloud's Media Translation API, you can add real-time audio translation directly to your content and applications in a seamless manner.</a></span></p>
+<p class="c31 c11"><span class="c27 c11"><a class="c7" href="https://www.google.com/url?q=https://cloud.google.com/media-translation&amp;sa=D&amp;source=editors&amp;ust=1615019496210000&amp;usg=AOvVaw2LA3VhbtYmbV-fc6K3RP97">https://bit.ly/gcp_mta</a></span></p>
+<p class="c51 c11 c34 c15"> </p>
+<p class="c13 c11 c34 c15 msg msg--success"><span class="c16 c11">If you are convinced that any existing models/API don't serve your needs then look at creating custom models. Even then choose easier paths such as AutoML which allows you to upload your data and automate the training for you. More on this later... 👋</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Day 5 Trainning &amp;Loss, Reducing Loss </title>
+        <author>
+            <name>Aayush</name>
+        </author>
+        <link href="https://aayushhh.github.io/blogss/day-6-trainning-andloss-reducing-loss.html"/>
+        <id>https://aayushhh.github.io/blogss/day-6-trainning-andloss-reducing-loss.html</id>
+            <category term="Training Loss"/>
+            <category term="Reducing Loss"/>
+            <category term="Machine learning"/>
+            <category term="ML"/>
+            <category term="Loss"/>
+            <category term="AI"/>
+            <category term="31daysofML"/>
+
+        <updated>2021-03-06T13:26:46+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aayushhh.github.io/blogss/media/posts/6/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                    <h2 class="align-center"><strong>🕹 Training &amp; Loss 🕹</strong></h2>
+<p><span style="font-weight: 400;">In supervised learning training a model means learning good values for weights &amp; bias from labelled examples. In doing so it attempts to find a model that minimises loss. Process is called empirical risk minimisation</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">📌 Loss indicates how bad model's prediction was on an example</span></p>
+<p><span style="font-weight: 400;">📌 Loss = 0 if the model's prediction is perfect otherwise it's greater.</span></p>
+<p><span style="font-weight: 400;">📌 Goal of training is to find weights &amp; biases that have low loss, on average, across data set</span></p>
+<hr>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/6/Screenshot-from-2021-03-06-12-51-16.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-2xl.png 1600w"  alt="" width="688" height="355"></figure>
+<p><span style="font-weight: 400;">Squared loss or L2 loss is a popular Loss function that aggregates the individual losses</span></p>
+<p><span style="font-weight: 400;">L2 loss for a single example = (observation - prediction)^2</span></p>
+<hr>
+<p class="dropcap"><span style="font-weight: 400;"><strong>Mean square error (MSE)</strong> is the average squared loss per example over the whole data set. To calculate MSE, sum up all the squared losses for individual examples and then divide by the number of examples. It looks like this 👇</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/6/Screenshot-from-2021-03-06-12-51-36.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-2xl.png 1600w"  alt="MSE" width="689" height="372"></figure>
+<p><span style="font-weight: 400;">Here is a fun read on loss function by </span><a href="https://twitter.com/quaesita"><span style="font-weight: 400;">@quaesita</span></a><span style="font-weight: 400;"> 👉 </span><a href="https://bit.ly/quaesita_emperor"><span style="font-weight: 400;">bit.ly/quaesita_emper…</span></a></p>
+<p> </p>
+<p><a href="https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc"><span style="font-weight: 400;">Machine learning — Is the emperor wearing clothes? | Hacker Noon</span></a></p>
+<p><a href="https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc"><span style="font-weight: 400;">https://bit.ly/quaesita_emperor</span></a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aayushhh.github.io/blogss/media/posts/6/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="" />
+                <h2 class="align-center"><strong>🕹 Training &amp; Loss 🕹</strong></h2>
+<p><span style="font-weight: 400;">In supervised learning training a model means learning good values for weights &amp; bias from labelled examples. In doing so it attempts to find a model that minimises loss. Process is called empirical risk minimisation</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">📌 Loss indicates how bad model's prediction was on an example</span></p>
+<p><span style="font-weight: 400;">📌 Loss = 0 if the model's prediction is perfect otherwise it's greater.</span></p>
+<p><span style="font-weight: 400;">📌 Goal of training is to find weights &amp; biases that have low loss, on average, across data set</span></p>
+<hr>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/6/Screenshot-from-2021-03-06-12-51-16.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-16-2xl.png 1600w"  alt="" width="688" height="355"></figure>
+<p><span style="font-weight: 400;">Squared loss or L2 loss is a popular Loss function that aggregates the individual losses</span></p>
+<p><span style="font-weight: 400;">L2 loss for a single example = (observation - prediction)^2</span></p>
+<hr>
+<p class="dropcap"><span style="font-weight: 400;"><strong>Mean square error (MSE)</strong> is the average squared loss per example over the whole data set. To calculate MSE, sum up all the squared losses for individual examples and then divide by the number of examples. It looks like this 👇</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/6/Screenshot-from-2021-03-06-12-51-36.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-51-36-2xl.png 1600w"  alt="MSE" width="689" height="372"></figure>
+<p><span style="font-weight: 400;">Here is a fun read on loss function by </span><a href="https://twitter.com/quaesita"><span style="font-weight: 400;">@quaesita</span></a><span style="font-weight: 400;"> 👉 </span><a href="https://bit.ly/quaesita_emperor"><span style="font-weight: 400;">bit.ly/quaesita_emper…</span></a></p>
+<p> </p>
+<p><a href="https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc"><span style="font-weight: 400;">Machine learning — Is the emperor wearing clothes? | Hacker Noon</span></a></p>
+<p><a href="https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc"><span style="font-weight: 400;">https://bit.ly/quaesita_emperor</span></a></p>
+
+<p> </p>
+<h2 class="align-center"><span style="font-weight: 400;">⬇️ Reducing Loss ⬇️</span></h2>
+<p><span style="font-weight: 400;">An iterative process of choosing model parameters that minimise loss</span></p>
+<p><span style="font-weight: 400;">👉 Loss function is how we compute loss</span></p>
+<p><span style="font-weight: 400;">👉 Loss function curve is convex for linear regression</span></p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://aayushhh.github.io/blogss/media/posts/6/Screenshot-from-2021-03-06-12-54-04.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-04-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-04-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-04-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-04-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-04-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-04-2xl.png 1600w"  alt="Reducing Loss" width="471" height="322">
+<figcaption >Caption</figcaption>
+</figure>
+<p> </p>
+<p><span style="font-weight: 400;">Calculating loss for every value of W isn't efficient: most common way is called gradient descent</span></p>
+<p><span style="font-weight: 400;">👉 Start with any value of w, b (weights &amp; biases)</span></p>
+<p><span style="font-weight: 400;">👉 Keep going until overall loss stops changing or changes slowly</span></p>
+<p><span style="font-weight: 400;">👉 That point is called convergence</span></p>
+<hr>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://aayushhh.github.io/blogss/media/posts/6/Screenshot-from-2021-03-06-12-54-19.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-19-xs.png 300w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-19-sm.png 480w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-19-md.png 768w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-19-lg.png 1024w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-19-xl.png 1360w ,https://aayushhh.github.io/blogss/media/posts/6/responsive/Screenshot-from-2021-03-06-12-54-19-2xl.png 1600w"  alt="" width="690" height="359"></figure>
+<p class="msg msg--success"><span style="font-weight: 400;">As you probably already guessed, gradient is a vector with:</span></p>
+<p><span style="font-weight: 400;">👉 Direction</span></p>
+<p><span style="font-weight: 400;">👉 Magnitude</span></p>
+<p class="msg msg--highlight "><span style="font-weight: 400;">Gradient descent algorithms multiply the gradient by a scalar known as the learning rate (or step size) to determine the next point.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">Here are a few resources I have used for this thread:</span></p>
+<p><span style="font-weight: 400;">👉 </span><a href="https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent"><span style="font-weight: 400;">developers.google.com/machine-learni…</span></a></p>
+<p><span style="font-weight: 400;">👉 </span><a href="https://bit.ly/quaesita_emperor"><span style="font-weight: 400;">bit.ly/quaesita_emper…</span></a></p>
+<p> </p>
+<p> </p>
+<p><a href="https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent"><span style="font-weight: 400;">Reducing Loss: Gradient Descent  |  Machine Learning Crash Course</span></a></p>
+<p><a href="https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent"><span style="font-weight: 400;">https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent</span></a></p>
+<p><a href="https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc"><span style="font-weight: 400;">Machine learning — Is the emperor wearing clothes? | Hacker Noon</span></a></p>
+<p><a href="https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc"><span style="font-weight: 400;">https://bit.ly/quaesita_emperor</span></a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Day 4 Unsupervised Learning</title>
         <author>
@@ -22,16 +383,16 @@
             <category term="Hierarchical Clustering"/>
             <category term="AI"/>
 
-        <updated>2021-03-06T01:15:01+05:30</updated>
+        <updated>2021-03-06T13:26:39+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44-2.png" alt="Unsupervised Learning" />
+                        <img src="https://aayushhh.github.io/blogss/media/posts/5/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="Unsupervised Learning" />
                     Unsupervised learning Input data is unlabeled &amp; the program learns to recognize the inherent patterns in the input data Eg: Data across few people's eating habits Model input =🍎🍊🍊 Model output = cluster of vegetarian/vegan When is unsupervised learning used? 🔸 On large datasets where annotating&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://aayushhh.github.io/blogss/media/posts/5/Screenshot-from-2021-03-06-01-09-44-2.png" alt="Unsupervised Learning" />
+                    <img src="https://aayushhh.github.io/blogss/media/posts/5/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="Unsupervised Learning" />
                 <h2 class="align-center"><code><strong>Unsupervised learning</strong></code></h2>
 <h2> </h2>
 <p><span style="font-weight: 400;">Input data is unlabeled &amp; the program learns to recognize the inherent patterns in the input data</span></p>
@@ -105,10 +466,10 @@
             <category term="AI"/>
             <category term="31daysofML"/>
 
-        <updated>2021-03-06T01:02:25+05:30</updated>
+        <updated>2021-03-06T13:26:27+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aayushhh.github.io/blogss/media/posts/4/1_DjUEt5-t6lCjYG_MuZlLg.png" alt="Supervised Learning" />
+                        <img src="https://aayushhh.github.io/blogss/media/posts/4/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="Supervised Learning" />
                     <p class="post__lead msg msg--highlight "><span style="font-weight: 400;">There are different types of learning models. These 4 are the most common that you usually come across. </span></p>
 <p> </p>
 <ul>
@@ -152,7 +513,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://aayushhh.github.io/blogss/media/posts/4/1_DjUEt5-t6lCjYG_MuZlLg.png" alt="Supervised Learning" />
+                    <img src="https://aayushhh.github.io/blogss/media/posts/4/72f1695b-f430-4dfc-a786-edf49bfda810_200x200.png" alt="Supervised Learning" />
                 <p class="post__lead msg msg--highlight "><span style="font-weight: 400;">There are different types of learning models. These 4 are the most common that you usually come across. </span></p>
 <p> </p>
 <ul>
@@ -263,7 +624,7 @@
             <category term="Examples"/>
             <category term="AI"/>
 
-        <updated>2021-03-06T01:05:06+05:30</updated>
+        <updated>2021-03-06T13:26:06+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aayushhh.github.io/blogss/media/posts/3/CFFL-Report-10.png" alt="Labels" />
@@ -329,7 +690,7 @@
             <category term="AI"/>
             <category term="31daysofML"/>
 
-        <updated>2021-03-06T01:03:58+05:30</updated>
+        <updated>2021-03-06T13:25:59+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://aayushhh.github.io/blogss/media/posts/2/Screenshot-from-2021-03-06-00-27-53.png" alt="What are the &amp; steps in Machine learning" />
